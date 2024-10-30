@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./src/App.js",
@@ -9,6 +9,7 @@ module.exports = {
     "./src/components/Footer.js",
     "./src/components/Menu.js",
     "./src/components/Contact.js",
+    "./src/components/Home.js",
   ],
   theme: {
     extend: {},
